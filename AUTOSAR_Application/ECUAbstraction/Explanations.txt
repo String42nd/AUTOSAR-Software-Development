@@ -1,0 +1,1 @@
+We have to have a C file with an arxml file together which will represent a software component.
